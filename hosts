@@ -1,0 +1,103 @@
+127.0.0.1		localhost.localdomain localhost
+::1		localhost6.localdomain6 localhost6
+142.204.133.35 red.proximity.on.ca red
+
+172.16.172.250 raspberry raspberrypi raspi ras pi
+
+172.16.172.162 zambia
+172.16.172.62 zambiab
+
+# senecaX  is the first interface (Linux)
+# senecaXa is the second interface (Linux, not usually used)
+# senecaXb is the third interface (management core)
+
+
+#172.16.172.178 synology rackstation san
+172.16.172.179 synology rackstation san
+
+172.16.172.254 morocco morocco.proximity.on.ca kojirepo
+172.16.172.215 red red.proximity.on.ca kojirepo
+
+172.16.172.150 cal-6-1 seneca0  kojihub
+172.16.172.200 seneca0a cal-6-1a
+172.16.172.50 seneca0b cal-6-1b
+172.16.172.151 cal-6-2 seneca1 kojidb
+172.16.172.201 seneca1a cal-6-2a
+172.16.172.51 seneca1b cal-6-2b
+172.16.172.152 cal-6-3 seneca2 kojira
+172.16.172.202 seneca2a cal-6-3a
+172.16.172.52 seneca2b cal-6-3b
+172.16.172.153 cal-6-4 seneca3 
+172.16.172.203 seneca3a cal-6-4a
+172.16.172.53 seneca3b cal-6-4b
+172.16.172.154 cal-6-5 seneca4 
+172.16.172.204 seneca4a cal-6-5a
+172.16.172.54 seneca4b cal-6-5b
+172.16.172.155 cal-6-6 seneca5 
+172.16.172.205 seneca5a cal-6-6a
+172.16.172.55 seneca5b cal-6-6b
+172.16.172.156 cal-7-1 seneca6 
+172.16.172.206 seneca6a cal-7-1a
+172.16.172.56 seneca6b cal-7-1b
+172.16.172.157 cal-7-2 seneca7 
+172.16.172.207 seneca7a cal-7-2a
+172.16.172.57 seneca7b cal-7-2b
+172.16.172.158 cal-7-3 seneca8 
+172.16.172.208 seneca8a cal-7-3a
+172.16.172.58 seneca8b cal-7-3b
+172.16.172.159 cal-7-4 seneca9 
+172.16.172.209 seneca9a cal-7-4a
+172.16.172.59 seneca9b cal-7-4b
+172.16.172.160 cal-7-5 seneca10
+172.16.172.210 seneca10a cal-7-5a
+172.16.172.60 seneca10b cal-7-5b
+172.16.172.161 cal-7-6 seneca11 
+172.16.172.211 seneca11a cal-7-6a
+172.16.172.61 seneca11b cal-7-6b
+
+# x-genes
+172.16.172.216	x1	blue	aarch64kojihub	leafhub	x1.local
+172.16.172.215		red
+172.16.172.13	x2					x2.local
+172.16.172.217	x3	green	greene			x3.local
+
+172.16.172.4	x4					x4.local
+172.16.172.5	x5					x5.local
+#172.16.172.25	x5					x5.local
+172.16.172.6	x6					x6.local
+172.16.172.7	x7					x7.local archie aarchie
+172.16.172.8	x8					x8.local
+172.16.172.9	x9					x9.local
+172.16.172.10	x10					x10.local
+172.16.172.11	x11					x11.local
+172.16.172.12	x12					x12.local
+
+# seattle/overdrives
+172.16.172.16 s4	s4.local	betty	bbetty
+172.16.172.17 s5	s5.local
+
+172.16.172.220	pdu-left
+172.16.172.221	pdu-right
+172.16.172.222	ups1
+172.16.172.223	ups2
+172.16.172.224	terminal cyclades serial
+172.16.172.225 pdu-center
+
+#cabinet 2
+172.16.172.226 pdu2-left
+172.16.172.227 pdu2-right
+172.16.172.228 terminal2 cyclades2 serial2
+172.16.172.229 ups3
+172.16.172.230 ups4
+
+
+#Raspberry pi in the colo xgene
+#172.16.172.125 colo-pi
+104.245.147.3   colo-pi
+
+#Colo xgene
+#172.16.172.126 colo
+104.245.147.2   colo
+
+172.16.172.249 raspi raspi1 display raspberrypi monitor mgp
+
